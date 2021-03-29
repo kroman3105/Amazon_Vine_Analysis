@@ -5,10 +5,12 @@ Using PySpark and the Google Colab Notebook, an analysis was performed on review
 
 ## Results
 
-#Vine Reviews
+# Vine Reviews
+
 ![Vine](https://github.com/kroman3105/Amazon_Vine_Analysis/blob/main/Images/Paid_Reviews.PNG)
 
-#Non-Vine Reviews
+# Non-Vine Reviews
+
 ![NonVine](https://github.com/kroman3105/Amazon_Vine_Analysis/blob/main/Images/Unpaid_Reviews.PNG)
 
  - There were 21 total Vine reviews on luggage, compared to 6,690 non-Vine reviews
